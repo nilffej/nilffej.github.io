@@ -1,0 +1,16 @@
+.closeButton {
+  float: right;
+  margin: -5px -5px 0px 0px !important;
+}
+
+.demoDialog {
+  color: #1d1d1d !important;
+}
+
+.projectTitle {
+  color: gray !important;
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 500 !important;
+  float: left;
+  margin: 0 auto;
+}

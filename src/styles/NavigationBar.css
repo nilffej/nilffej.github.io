@@ -1,0 +1,14 @@
+.navigationBar {
+  background-color: #1d1d1d;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-variant-caps: all-small-caps;
+}
+
+.navigationBar h6 {
+  color: white;
+}
+
+.navigationBar h6:hover {
+  color: #6BD0FF;
+}
