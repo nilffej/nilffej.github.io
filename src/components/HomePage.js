@@ -30,7 +30,7 @@ function HomePage() {
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <p>Built using React</p>
         <div style={{ marginLeft: '30px' }}></div>
-        <a href='https://github.com/nilffej/jefflin'>
+        <a href='https://github.com/nilffej/nilffej.github.io/tree/source'>
           <p>View on Github</p>
         </a>
       </div>
