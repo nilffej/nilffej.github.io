@@ -11,7 +11,7 @@ import my_photo from '../assets/my_photo.jpg';
 import '../styles/HomePage.css';
 
 function Introduction(props) {
-
+  console.log('hello!');
   const linkedInLink = 'https://www.linkedin.com/in/jeff-lin-06b60442/';
   const githubLink = 'https://github.com/nilffej';
 
