@@ -7,11 +7,10 @@ import { Link } from 'react-scroll';
 import Typewriter from 'typewriter-effect';
 import { Typography } from '@mui/material';
 
-import my_photo from '../assets/my_photo.jpg';
-import '../styles/HomePage.css';
+import my_photo from '../../assets/my_photo.jpg';
+import '../../styles/HomePage.css';
 
 function Introduction(props) {
-  console.log('hello!');
   const linkedInLink = 'https://www.linkedin.com/in/jeff-lin-06b60442/';
   const githubLink = 'https://github.com/nilffej';
 
@@ -46,7 +45,7 @@ function Introduction(props) {
                 }} />
             </Typography>
             <Typography variant='h6'>
-              I'm a second year Computer Science student at University of Michigan, Ann Arbor.
+              I'm a third year Computer Science student at University of Michigan, Ann Arbor.
             </Typography>
 
             <Grid container mt={6} justifyContent={styles.alignBodyText}>

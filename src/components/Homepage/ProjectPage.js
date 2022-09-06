@@ -10,8 +10,8 @@ import { GiBubblingBowl } from 'react-icons/gi';
 import { SiSpotify, SiFlask, SiJavascript, SiBootstrap, SiGooglemaps, SiSqlite, SiSelenium, SiPython } from 'react-icons/si';
 
 import DemoDialog from './DemoDialog.js';
-import projectsList from '../utils/projects.js';
-import '../styles/ProjectPage.css';
+import projectsList from '../../utils/projects.js';
+import '../../styles/ProjectPage.css';
 
 function ProjectPage() {
   const [dialogStatus, setDialogOpen] = useState({

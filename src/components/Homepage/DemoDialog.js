@@ -2,7 +2,7 @@ import React from 'react';
 import { Dialog, DialogContent, IconButton, Typography } from '@mui/material';
 import { IoClose } from 'react-icons/io5';
 
-import '../styles/DemoDialog.css';
+import '../../styles/DemoDialog.css';
 
 function DemoDialog(props) {
   return (

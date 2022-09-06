@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import { Toolbar } from '@mui/material';
 import { Typography } from '@mui/material';
 
-import '../styles/NavigationBar.css';
+import '../../styles/NavigationBar.css';
 
 function NavigationBar(props) {
   const resumeLink = 'https://drive.google.com/file/d/1e9gx-0PUgJRFsBFdHN4f-wOuMgWjdhQk/view';

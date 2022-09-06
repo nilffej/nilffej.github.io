@@ -7,6 +7,7 @@ const skills = {
     "Python",
     "Dart",
     "SQLite",
+    "NoSQL"
   ],
   technologies: [
     "React.js",

@@ -2,9 +2,9 @@ import React from 'react';
 import { Grid } from '@mui/material';
 import { Typography } from '@mui/material';
 
-import experienceList from '../utils/experience';
-import '../styles/HomePage.css';
-import skills from '../utils/skills';
+import experienceList from '../../utils/experience';
+import '../../styles/HomePage.css';
+import skills from '../../utils/skills';
 
 function MoreInformation(props) {
 

@@ -3,7 +3,6 @@ const projectsList = [
     name: "Statify",
     description: "A web app to show listening patterns across multiple timeframes with a lyric provider that matches real-time listening stream.",
     technologies: ["Flask", "Spotify Web API", "BeautifulSoup4", "Javascript", "Bootstrap"],
-    projectLink: "http://statify.one/",
     demoLink: "https://www.youtube.com/embed/_4mkh9iP5L4",
     projectGithub: "https://github.com/nilffej/Statify",
   },
