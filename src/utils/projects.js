@@ -14,6 +14,13 @@ const projectsList = [
     projectGithub: "https://github.com/jacksonzou123/moneymanager",
   },
   {
+    name: "Easy Clipboard",
+    description: "Virtual clipboard for quick copying and pasting built on IndexedDB",
+    technologies: ["Javascript"],
+    projectLink: "https://jefflin.dev/easy-clipboard/",
+    projectGithub: "https://github.com/nilffej/easy-clipboard",
+  },
+  {
     name: "Handlebars",
     description: "Rental bike locator, bookmarker and reviewer with weather and map widgets.",
     technologies: ["Flask", "Javascript", "Bootstrap", "SQLite"],
