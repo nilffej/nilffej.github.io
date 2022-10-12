@@ -61,7 +61,7 @@ function ProjectPage() {
   return (
     <>
       <Typography variant='h2' textAlign='center'>Projects</Typography>
-      <Container style={{ marginTop: '40px' }} px={{ xs: 2, sm: 4, lg: 8 }} maxWidth='false'>
+      <Container style={{ marginTop: '40px' }} maxWidth='false'>
         <Grid container item direction='row' zIndex={1} justifyContent='center'>
           {
             projectsList.map((project) =>

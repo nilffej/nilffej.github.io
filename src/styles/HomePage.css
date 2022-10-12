@@ -36,6 +36,11 @@
   padding-top: 30px;
 }
 
+
+li::marker {
+  color: gray
+}
+
 .myPhoto {
   max-height: 400px;
   max-width: 400px;
