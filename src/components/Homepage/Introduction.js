@@ -45,7 +45,7 @@ function Introduction(props) {
                 }} />
             </Typography>
             <Typography variant='h6'>
-              I'm a third year Computer Science student at University of Michigan, Ann Arbor.
+              I'm a third year Computer Science student at University of Michigan.
             </Typography>
 
             <Grid container mt={6} justifyContent={styles.alignBodyText}>
