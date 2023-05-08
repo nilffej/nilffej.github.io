@@ -15,7 +15,7 @@ const skills = {
     "Flask",
     "Django",
     "MaterialUI",
-    "Boostrap",
+    "Bootstrap",
     "BeautifulSoup4",
     "Selenium",
   ]
