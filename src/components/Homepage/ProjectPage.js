@@ -7,7 +7,7 @@ import { useTheme } from '@mui/system';
 
 import { DiPhonegap } from 'react-icons/di';
 import { GiBubblingBowl } from 'react-icons/gi';
-import { SiSpotify, SiFlask, SiJavascript, SiBootstrap, SiGooglemaps, SiSqlite, SiSelenium, SiPython } from 'react-icons/si';
+import { SiSpotify, SiFlask, SiJavascript, SiBootstrap, SiGooglemaps, SiSqlite, SiSelenium, SiPython, SiReact } from 'react-icons/si';
 
 import DemoDialog from './DemoDialog.js';
 import projectsList from '../../utils/projects.js';
@@ -42,6 +42,7 @@ function ProjectPage() {
     'Python': <SiPython />,
     'BeautifulSoup4': <GiBubblingBowl />,
     'Adobe PhoneGap': <DiPhonegap />,
+    'React': <SiReact />
   };
 
   const handleOpenDialog = (name, link) => {
