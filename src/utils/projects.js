@@ -29,15 +29,16 @@ const projectsList = [
   },
   {
     name: "Habit Tracker",
-    description: "Habit tracker with a calendar visualizer built with React.",
+    description:
+      "Habit tracker with a calendar to record and visualize behaviors over time built using React.",
     technologies: ["React", "Javascript", "Bootstrap"],
-    demoLink: "https://www.youtube.com/embed/riafowjSYQc",
-    projectGithub: "https://github.com/nilffej/easy-clipboard",
+    demoLink: "https://www.youtube.com/embed/riafowjSYQc?start=144",
+    projectGithub: "https://github.com/andino9092/eecs493-project",
   },
   {
     name: "Easy Clipboard",
     description:
-      "Virtual clipboard for quick copying and pasting built on IndexedDB.",
+      "Categorized clipboard for quick copying and pasting built on IndexedDB.",
     technologies: ["Javascript", "Bootstrap"],
     projectLink: "https://jefflin.dev/easy-clipboard/",
     projectGithub: "https://github.com/nilffej/easy-clipboard",
