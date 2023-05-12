@@ -30,10 +30,10 @@ const projectsList = [
   {
     name: "Habit Tracker",
     description:
-      "Habit tracker with a calendar to record and visualize behaviors over time built using React.",
+      "Habit tracker where users log behaviors on an interactive calendar using emojis built using React.",
     technologies: ["React", "Javascript", "Bootstrap"],
+    projectGithub: "https://github.com/nilffej/habit-tracker-eecs-493", 
     demoLink: "https://www.youtube.com/embed/riafowjSYQc?start=144",
-    projectGithub: "https://github.com/andino9092/eecs493-project",
   },
   {
     name: "Easy Clipboard",
